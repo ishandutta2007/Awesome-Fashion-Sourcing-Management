@@ -74,9 +74,9 @@ This repository tracks notable **SaaS platforms** and **open-source software** f
 
 Below is a curated collection of open-source software, ERP modules, supply-chain event trackers, and data standards suitable for building custom fashion sourcing solutions.
 
-*Sorted by GitHub Star Count (Descending)*
+*Sorted by GitHub Stars_Count (Descending)*
 
-| Repository & Link | GitHub Stars Badge | Description & Sourcing Application |
+| Repository & Link | GitHub_Stars_Badge | Description & Sourcing Application |
 | :--- | :--- | :--- |
 | **[Odoo Purchase & Vendor Management](https://github.com/odoo/odoo)** | [![Odoo Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Enterprise Open Source ERP containing comprehensive RFQ, Purchase Order, Vendor Onboarding, and Bill of Materials (BOM) modules customizable for garment sourcing. |
 | **[ERPNext Buying & Supplier Portal](https://github.com/frappe/erpnext)** | [![ERPNext Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Modern open-source ERP with built-in supplier portal, material request workflows, multi-currency purchasing, and apparel inventory management. |
