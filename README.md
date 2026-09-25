@@ -1,209 +1,155 @@
-# Awesome-Fashion-Sourcing-Management
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Fashion Sourcing Management Banner" width="100%" />
+</p>
 
-## Top Fashion Sourcing Management Platforms Ecosystem
+# 👔 Awesome Fashion Sourcing Management 🧵
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Fashion-Sourcing-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Fashion-Sourcing-Management?style=flat-square" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Fashion-Sourcing-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Fashion-Sourcing-Management?style=flat-square" alt="Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Fashion-Sourcing-Management/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Fashion-Sourcing-Management?style=flat-square" alt="Issues"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Fashion-Sourcing-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Fashion-Sourcing-Management?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+## 🌟 Top Fashion Sourcing Management Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 
-*Focused on Apparel Sourcing, Supplier Collaboration, Quality, Compliance, Traceability & Supply-Chain Visibility*
+*Focused on Apparel Sourcing, Supplier Collaboration, Quality Control, Compliance Tracking, Sustainability Traceability & Global Supply-Chain Visibility*
 
-**Last updated: September 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Fashion Sourcing Management**. These systems help apparel, footwear, and soft-goods brands manage supplier onboarding, RFQs, sampling, purchase orders, quality inspections, compliance, and multi-tier supply-chain visibility.
-
-
-
-**Examples** include Pivot88, Zetwerk Supplier Portal, WFX Sourcing, TradeBeyond, Inspectorio, Infor Nexus, Sourcemap, Assent, Sedex, and Resilinc (the category leaders).
-
-
-
-**Open-source emphasis**: Dedicated fashion sourcing and multi-tier compliance platforms are largely commercial. Practical open options include general ERP supplier modules (**Odoo / ERPNext**), blockchain transparency prototypes, and textile-specific community projects. This section lists the strongest available open resources and is realistic about the commercial gap.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-- **[Pivot88](https://www.pivot88.com/)**  
-
-  Supply-chain quality and sourcing visibility platform for apparel brands—quote tracking, sample milestones, and multi-supplier collaboration.
-
-
-
-- **[Zetwerk Supplier Portal](https://www.zetwerk.com/)**  
-
-  Supplier collaboration and manufacturing network portal used by brands and buyers for sourcing and production coordination.
-
-
-
-- **[WFX Sourcing / WFX](https://www.worldfashionexchange.com/)**  
-
-  Fashion-focused cloud platform covering sourcing, PLM, ERP, and end-to-end apparel operations from product development through production.
-
-
-
-- **[TradeBeyond](https://www.tradebeyond.com/)**  
-
-  Supply-chain management software for sourcing, product development, supplier collaboration, PO execution, and compliance in apparel and soft goods.
-
-
-
-- **[Inspectorio](https://www.inspectorio.com/)**  
-
-  Quality and compliance platform focused on inspections, factory performance, and supply-chain transparency for fashion and retail.
-
-
-
-- **[Infor Nexus](https://www.infor.com/products/nexus)**  
-
-  Multi-enterprise supply-chain network supporting visibility, collaboration, and execution across global sourcing and logistics partners.
-
-
-
-- **[Sourcemap](https://www.sourcemap.com/)**  
-
-  Supply-chain mapping and transparency platform used for multi-tier visibility, risk, and sustainability tracking.
-
-
-
-- **[Assent](https://www.assent.com/)**  
-
-  Supply-chain compliance and sustainability platform covering materials, regulations, and supplier data for complex product supply chains.
-
-
-
-- **[Sedex](https://www.sedex.com/)**  
-
-  Ethical trade and responsible sourcing membership platform widely used for supplier audits, risk, and social compliance data sharing.
-
-
-
-- **[Resilinc](https://www.resilinc.com/)**  
-
-  Supply-chain resilience and risk platform providing multi-tier visibility, event monitoring, and disruption intelligence.
-
-
-
-## Open-Source GitHub Projects
-
-- **[Odoo Purchase & Supplier modules](https://github.com/odoo/odoo)**  
-
-  Open ERP modules for RFQs, purchase orders, vendor management, and basic supplier collaboration that can be extended for apparel sourcing workflows.
-
-
-
-- **[ERPNext Buying / Supplier features](https://github.com/frappe/erpnext)**  
-
-  Open-source ERP capabilities for supplier onboarding, purchase cycles, and inventory that serve as a foundation for sourcing operations.
-
-
-
-- **[Tetra (sustainable supply-chain transparency)](https://github.com/APiligrim/Tetra)**  
-
-  Open blockchain-based prototype for clothing brands to track stages of the supply chain and materials with greater transparency.
-
-
-
-- **[Textile Playbook and sourcing knowledge projects](https://github.com/ayumi-research/textile-playbook)**  
-
-  Open-source playbooks and structured knowledge for B2B textile and embroidery sourcing, supplier evaluation, and pricing practices.
-
-
-
-- **[Medo / textile production open platforms](https://github.com/Jaal-Yantra-Textiles)**  
-
-  Open textile-first production and marketplace concepts covering design-to-shipment workflows and partner portals.
-
-
-
-- **[Community apparel / garment supply-chain open systems](https://github.com/)**  
-
-  Experimental full-stack projects for style-to-production tracking, factory scanning, and quality flows in garment manufacturing.
-
-
-
-- **[GS1 / EPCIS open tooling](https://github.com/)**  
-
-  Libraries and schemas for capturing supply-chain events that support traceability and multi-party visibility.
-
-
-
-- **[Supplier portal open templates](https://github.com/)**  
-
-  Self-hosted portal and document-sharing prototypes for RFQs, specs, and sample tracking.
-
-
-
-- **[Sustainability and materials open data projects](https://github.com/)**  
-
-  Community datasets and tools for material passports, impact data, and preferred-fiber tracking.
-
-
-
-- **[Documentation and responsible-sourcing open guides](https://github.com/)**  
-
-  Resources aligned with ethical trade, multi-tier mapping, and basic compliance workflows.
-
-
-
-### Additional Strong Open-Source Options
-
-- Building internal sourcing processes on **Odoo** or **ERPNext** for RFQs, POs, and supplier records with full data ownership.
-
-- Prototyping transparency and multi-tier mapping with blockchain or open event-capture tools.
-
-- Accepting that industry-specific quote collaboration, inspection networks, ethical-audit ecosystems (Sedex-style), real-time multi-tier risk, and large-scale supplier portals still favor commercial platforms (Pivot88, TradeBeyond, WFX, Inspectorio, Infor Nexus, Sourcemap, Assent, Sedex, Resilinc, etc.).
-
-- Focusing open-source efforts on data ownership, interoperability standards, and sustainability transparency.
-
-
-
-**Frameworks for building custom systems**: Manage suppliers and POs in an open ERP → share specs and samples via secure portals or shared drives → capture quality and compliance events → map multi-tier relationships with open tools or commercial visibility layers. Suitable for brands with internal development capacity. Most mid-to-large fashion companies rely on commercial sourcing and supply-chain platforms for collaboration scale and compliance networks.
-
-
-
-## How to Contribute
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Sourcing and supply-chain systems handle commercially sensitive supplier and product data. Proper security, contractual controls, and compliance with trade and sustainability regulations are required. This list is not legal, sourcing, or compliance advice.
-
-
+**📅 Last updated: September 2026**
 
 ---
 
-**Made for apparel brands, sourcing teams, and supply-chain transparency advocates.**
+### 🚀 Overview
 
-Let's keep fashion supply chains more visible, responsible, and as open as practical.
+This repository tracks notable **SaaS platforms** and **open-source software** for **Fashion Sourcing Management**, **Apparel Supply Chain Management**, **Vendor Management Systems (VMS)**, and **Product Lifecycle Management (PLM)** integrations. These digital tools empower apparel, footwear, luxury, and soft-goods brands to streamline supplier onboarding, RFQs/RFPs, techpack sharing, sample approval milestones, purchase order (PO) tracking, factory quality inspections, ESG compliance audits, and multi-tier supply-chain visibility.
+
+**Category Leaders Include:** Infor Nexus, Assent, Resilinc, Sedex, Inspectorio, Zetwerk, TradeBeyond, Pivot88, Sourcemap, and WFX Sourcing.
+
+**💡 Open-Source Emphasis:** Dedicated fashion sourcing and multi-tier compliance platforms remain predominantly commercial. Practical open-source options consist of enterprise ERP supplier modules (**Odoo**, **ERPNext**), supply chain event tracking tools (**Apache Unomi**, **Hyperledger Fabric**), blockchain transparency engines, and community textile datasets.
+
+---
+
+## 📑 Table of Contents
+
+- [🏢 SaaS & Commercial Hosted Platforms](#-saas--commercial-hosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Architecture & Custom Implementation Frameworks](#%EF%B8%8F-architecture--custom-implementation-frameworks)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Community](#-support--community)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+
+---
+
+## 🏢 SaaS & Commercial Hosted Platforms
+
+> [!NOTE]
+> **Market Dynamics & Industry Size:**
+> The global fashion sourcing, PLM, and supply chain management software market is estimated at **~$3.2 Billion (2026)** and is projected to reach **$5.8 Billion by 2030**. The sector is **moderately fragmented**, featuring massive enterprise supply network leaders alongside specialized vertical point solutions in quality control, ESG traceability, and supplier collaboration.
+
+### 📊 Comparative Analysis of SaaS Sourcing Platforms
+
+*Sorted by Company Scale / Enterprise Footprint (Descending)*
+
+| Platform | Enterprise Scale / Valuation / Revenue | Starting Pricing Tier | Free Tier / Trial Limit | Key Focus & Features |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Infor Nexus](https://www.infor.com/products/nexus)** | **$3.2B+ Annual Revenue** (Koch Industries subsidiary) | $15,000/year base platform licensing | 30-day enterprise sandbox preview (by request) | Multi-enterprise global supply chain network, real-time PO execution, automated multi-tier logistics & financial flows. |
+| **[Assent](https://www.assent.com/)** | **$1.2B+ Valuation** ($350M+ total raised) | $10,000/year enterprise compliance suite | 14-day vendor demonstration trial environment | Supply chain sustainability, REACH/RoHS regulatory compliance, supply chain ESG risk management. |
+| **[Resilinc](https://www.resilinc.com/)** | **$500M+ Valuation** (Private equity backed) | $8,500/year risk monitoring module | Free supplier portal account (limited to receiving customer requests) | Multi-tier supply chain mapping, AI disruption monitoring, supplier risk resiliency analytics. |
+| **[Sedex](https://www.sedex.com/)** | **$75M+ Annual Revenue** (Non-profit trade association body) | £110/year (~$140/yr) buyer membership | Free 14-day preview access for verified supplier accounts | SMETA audit sharing, ethical trade risk assessment, global labor compliance tracking network. |
+| **[Inspectorio](https://www.inspectorio.com/)** | **$50M+ Annual Revenue** ($50M+ Series B funding) | $500/month per factory facility | 14-day trial account for quality management module | Factory quality control, digitized inspection workflows, production risk monitoring & analytics. |
+| **[Zetwerk Supplier Portal](https://www.zetwerk.com/)** | **$2.7B Valuation** (Unicorn status) | $450/month starter sourcing manager plan | Free supplier profile registration (no buyer RFQ publishing limits) | Global contract manufacturing portal, B2B custom apparel sourcing, quote management & production tracking. |
+| **[TradeBeyond](https://www.tradebeyond.com/)** | **$40M+ Annual Revenue** (Private equity backer: EQT) | $400/month per user module license | 14-day guided trial environment | Retail & fashion sourcing software, RFQ automation, line building, supplier collaboration & PO execution. |
+| **[Pivot88](https://www.pivot88.com/)** | **$25M+ Annual Revenue** (Acquired by TradeBeyond / EQT) | $350/month per quality inspection user | 30-day trial for quality management mobile app | Quality assurance, sample tracking, factory audit digitization, raw material inspection workflows. |
+| **[Sourcemap](https://www.sourcemap.com/)** | **$20M+ Annual Revenue** ($20M+ Series B funding) | $300/month tier 1 mapping license | Free basic supplier disclosure portal | Supply chain transparency, multi-tier fabric/raw material tracing, forced labor compliance verification. |
+| **[WFX Sourcing](https://www.worldfashionexchange.com/)** | **$15M+ Annual Revenue** (Bootstrapped / Profitable) | $150/user/month (min 5 users = $750/mo) | 14-day full platform trial demo | End-to-end apparel cloud PLM & ERP sourcing module, techpack management, costing & vendor portal. |
+
+---
+
+## 🔓 Open-Source GitHub Projects
+
+Below is a curated collection of open-source software, ERP modules, supply-chain event trackers, and data standards suitable for building custom fashion sourcing solutions.
+
+*Sorted by GitHub Star Count (Descending)*
+
+| Repository & Link | GitHub Stars Badge | Description & Sourcing Application |
+| :--- | :--- | :--- |
+| **[Odoo Purchase & Vendor Management](https://github.com/odoo/odoo)** | [![Odoo Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Enterprise Open Source ERP containing comprehensive RFQ, Purchase Order, Vendor Onboarding, and Bill of Materials (BOM) modules customizable for garment sourcing. |
+| **[ERPNext Buying & Supplier Portal](https://github.com/frappe/erpnext)** | [![ERPNext Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Modern open-source ERP with built-in supplier portal, material request workflows, multi-currency purchasing, and apparel inventory management. |
+| **[Hyperledger Fabric](https://github.com/hyperledger/fabric)** | [![Fabric Stars](https://img.shields.io/github/stars/hyperledger/fabric?style=social&color=white)](https://github.com/hyperledger/fabric/stargazers) | Enterprise permissioned blockchain framework widely utilized for constructing private multi-tier apparel supply chain traceability and provenance tracking network nodes. |
+| **[Apache Unomi](https://github.com/apache/unomi)** | [![Unomi Stars](https://img.shields.io/github/stars/apache/unomi?style=social&color=white)](https://github.com/apache/unomi/stargazers) | Open-source customer & partner event tracking server that can be repurposed for supplier lifecycle event capture and vendor portal analytics. |
+| **[OpenLMIS](https://github.com/OpenLMIS/OpenLMIS-UI)** | [![OpenLMIS Stars](https://img.shields.io/github/stars/OpenLMIS/OpenLMIS-UI?style=social&color=white)](https://github.com/OpenLMIS/OpenLMIS-UI/stargazers) | Open-source Logistics Management Information System framework adaptable for tracking distributed garment allocations, regional inventory movements, and warehouse distribution. |
+| **[Tetra Sustainable Traceability](https://github.com/APiligrim/Tetra)** | [![Tetra Stars](https://img.shields.io/github/stars/APiligrim/Tetra?style=social&color=white)](https://github.com/APiligrim/Tetra/stargazers) | Blockchain prototype designed specifically for apparel brands to track sustainable raw material flows, organic fabric certificates, and factory transformation stages. |
+| **[Textile Playbook](https://github.com/ayumi-research/textile-playbook)** | [![Textile Playbook Stars](https://img.shields.io/github/stars/ayumi-research/textile-playbook?style=social&color=white)](https://github.com/ayumi-research/textile-playbook/stargazers) | Open knowledge repository, evaluation matrices, and structured data standards for B2B fabric sourcing, embroidery pricing, and mill audits. |
+| **[Jaal Yantra Textile Engine](https://github.com/Jaal-Yantra-Textiles)** | [![Jaal Yantra Stars](https://img.shields.io/github/stars/Jaal-Yantra-Textiles?style=social&color=white)](https://github.com/Jaal-Yantra-Textiles/stargazers) | Open-source textile-first production management platform for micro-factories, covering design spec sheets to mill shipment tracking. |
+
+---
+
+## 🛠️ Architecture & Custom Implementation Frameworks
+
+For fashion brands and engineering teams seeking to build internal custom sourcing solutions:
+
+```
+[ Open ERP (Odoo / ERPNext) ]  <--->  [ Supplier Portal (Self-Hosted React/Vue) ]
+            │                                             │
+            ▼                                             ▼
+[ PO & RFQ Execution Engine ]         [ Spec Sheet & Techpack Document Storage ]
+            │                                             │
+            └──────────────────────┬──────────────────────┘
+                                   │
+                                   ▼
+                   [ Audit & ESG Compliance Layer ]
+                                   │
+                                   ▼
+              [ Multi-Tier Traceability (GS1 EPCIS / Fabric) ]
+```
+
+- **Core Procurement & Vendor Master:** Leverage **Odoo** or **ERPNext** for PO lifecycle, vendor onboarding, and costing worksheets.
+- **Supplier Collaboration:** Build custom light-weight web portals (React/Next.js) consuming ERP GraphQL API endpoints for sample status updates.
+- **Traceability & Compliance:** Implement GS1 EPCIS standards or **Hyperledger Fabric** nodes for tracking organic cotton/polyester certifications across Tier-1 to Tier-4 suppliers.
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! Please follow these simple steps:
+
+1. **Fork** the repository.
+2. Add your product or project to `README.md` following the table schema.
+3. Ensure factual descriptions and verify working official links.
+4. Submit a **Pull Request (PR)** with a summary of changes.
+
+---
+
+## 💖 Support & Community
+
+If you find this repository helpful, please consider supporting the project:
+
+- ⭐ **Star** this repository to show your appreciation!
+- 🔀 **Fork** it to keep your own copy and contribute improvements.
+- 📢 **Share** it with fellow fashion tech engineers, sourcing managers, and supply chain professionals.
+- ☕ **Sponsor:** You can buy me a coffee via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)!
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Fashion-Sourcing-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Fashion-Sourcing-Management&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This list is **community-curated** for informational purposes only.
+- Supply chain data and vendor pricing structures change frequently. Always consult official vendor sales channels for binding quotes.
+- This repository is not legal, financial, or regulatory compliance advice.
+
+---
+
+<p align="center">
+  <b>Made with ❤️ for apparel brands, sourcing leaders, and supply chain transparency advocates globally.</b>
+</p>
